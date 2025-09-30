@@ -14,7 +14,7 @@ Statistical comparisons between urban and rural areas
 Getting Started:
 
 Prerequisites:
-Python 3.x
+Python 3.x,
 Jupyter Notebook
 
 Required libraries: 
@@ -31,10 +31,9 @@ cd Trends-in-COVID-19-Infection-and-Vaccination-Data-in-Scotland-Disaggregated-b
 Install the required Python packages:
 pip install -r requirements.txt
 
-Running the Notebook
+Running the Notebook:
 Launch Jupyter and open the .ipynb file to run the analysis step-by-step:
-jupyter notebook
 
-Contributing
+Contributing:
 Feel free to open issues or submit pull requests for improvements.
 
