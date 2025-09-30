@@ -1,9 +1,10 @@
 Trends in COVID-19 Infection and Vaccination Data in Scotland
 Project Overview:
-This project analyzes COVID-19 infection and vaccination trends in Scotland, with data disaggregated by gender, region, and urban density. The analysis aims to provide insights into how the pandemic and vaccination efforts have affected different demographic and geographic groups.
+This project analyzes COVID-19 infection and vaccination trends in Scotland, with data disaggregated by gender, region, and urban density. The analysis aims to provide insights into how the pandemic and vaccination efforts have affected different demographic and geographic groups. It was created as the final project for Python for Data Science at University of Edinburgh, April 2025
 
 Contents: 
 Jupyter Notebook with data processing, visualization, and analysis
+
 Dataset files used for the analysis
 
 Features:
@@ -32,7 +33,7 @@ Install the required Python packages:
 pip install -r requirements.txt
 
 Running the Notebook:
-Launch Jupyter and open the .ipynb file to run the analysis step-by-step:
+Launch Jupyter and open the .ipynb file to run the analysis step-by-step
 
 Contributing:
 Feel free to open issues or submit pull requests for improvements.
