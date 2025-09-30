@@ -1,14 +1,14 @@
 Trends in COVID-19 Infection and Vaccination Data in Scotland
-Project Overview
+Project Overview:
 This project analyzes COVID-19 infection and vaccination trends in Scotland, with data disaggregated by gender, region, and urban density. The analysis aims to provide insights into how the pandemic and vaccination efforts have affected different demographic and geographic groups.
 
-Contents
+Contents:
 
 Jupyter Notebook with data processing, visualization, and analysis
 
 Dataset files used for the analysis
 
-Features
+Features:
 
 Trend analysis over time by gender and region
 
@@ -16,9 +16,9 @@ Visualizations highlighting infection and vaccination patterns
 
 Statistical comparisons between urban and rural areas
 
-Getting Started
+Getting Started:
 
-Prerequisites
+Prerequisites:
 
 Python 3.x
 
@@ -27,22 +27,16 @@ Jupyter Notebook
 Required libraries: 
 pandas, matplotlib, seaborn
 
-Installation
+Installation:
 
 Clone the repository:
-
-text
 
 git clone https://github.com/oliviaclaireheale/Trends-in-COVID-19-Infection-and-Vaccination-Data-in-Scotland-Disaggregated-by-Gender-Region-and-
 
 Navigate to the project directory:
 
-text
-
 cd Trends-in-COVID-19-Infection-and-Vaccination-Data-in-Scotland-Disaggregated-by-Gender-Region-and
 Install the required Python packages:
-
-text
 
 pip install -r requirements.txt
 
